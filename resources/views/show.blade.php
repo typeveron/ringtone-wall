@@ -39,7 +39,7 @@
                     <td>{{$ringtone->format}}</td>
                 </tr>
                 <tr>
-                    <th>Size</th>
+                    <th>Size (bytes)</th>
                     <td>{{$ringtone->size}}</td>
                 </tr>
                 <tr>
