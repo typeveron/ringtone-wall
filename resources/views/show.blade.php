@@ -59,6 +59,13 @@
             <div class="card-header" style="background-color: #ccc;"><a href="{{route('ringtones.category', [$category->id])}}">{{$category->name}}</a></div>
             @endforeach
         </div>
+        <script src="https://utteranc.es/client.js"
+        repo="typeveron/ringtone-wall"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+        </script>
     </div>
 </div>
 @endsection
