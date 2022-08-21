@@ -104,7 +104,7 @@
     </div>
     <style type="text/css">
         .navbar {
-            background:#01f5fdd3!important;
+            background:#fa3d3dd3!important;
         }
         .navbar a{
             color: #fff!important;
